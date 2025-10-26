@@ -33,5 +33,5 @@ uvicorn main:app --reload
 deactivate
 
 # frontend
-
-
+npm run dev
+npm run build
